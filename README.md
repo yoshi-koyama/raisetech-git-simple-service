@@ -3,5 +3,5 @@
 このレポジトリはGitとGithubを勉強するためのレポジトリです。
 
 # メンバー
-- yoshi-koyama
-- tatsurooo
+- 小山
+- たつろー
